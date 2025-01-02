@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>other/Image/120.bmp</file>
+        <file>other/Image/132.bmp</file>
+        <file>other/Image/212.bmp</file>
+        <file>other/Image/322.bmp</file>
+        <file>other/Image/324.bmp</file>
+        <file>other/Image/close.png</file>
+        <file>other/Image/export.png</file>
+        <file>other/Image/face.png</file>
+        <file>other/Image/foward.png</file>
+        <file>other/Image/max.png</file>
+        <file>other/Image/min.png</file>
+        <file>other/Image/return.png</file>
+        <file>other/Image/set.png</file>
+        <file>other/Image/tool.png</file>
+        <file>QssFile/controlbar.qss</file>
+        <file>QssFile/main.css</file>
+        <file>QssFile/sidebar.qss</file>
+    </qresource>
+</RCC>
